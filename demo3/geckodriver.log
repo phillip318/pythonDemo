@@ -1,0 +1,208 @@
+1618889163578	geckodriver	INFO	Listening on 127.0.0.1:53699
+1618889166642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7vE59d"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618889172520	Marionette	INFO	Listening on port 53714
+1618889172794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1618889188949	Marionette	INFO	Stopped listening on port 53714
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618889264432	geckodriver	INFO	Listening on 127.0.0.1:53964
+1618889267525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileCFGhik"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618889272808	Marionette	INFO	Listening on port 53981
+1618889273126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618889602012	Marionette	INFO	Stopped listening on port 53981
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecaNR1l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618889352225	Marionette	INFO	Listening on port 54248
+1618889352629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618889602643	Marionette	INFO	Stopped listening on port 54248
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891218928	geckodriver	INFO	Listening on 127.0.0.1:59311
+1618891222020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2XKdKZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891225913	Marionette	INFO	Listening on port 59323
+1618891226407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.vmgirls.com/, line 1162: ReferenceError: setShareInfo is not defined
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1618891232275	Marionette	INFO	Stopped listening on port 59323
+1618891244844	geckodriver	INFO	Listening on 127.0.0.1:59448
+1618891247863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezQMRB9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891252228	Marionette	INFO	Listening on port 59461
+1618891252253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618891361650	Marionette	INFO	Stopped listening on port 59461
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileXQrmvs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891333420	Marionette	INFO	Listening on port 59671
+1618891333506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618891360911	Marionette	INFO	Stopped listening on port 59671
+1618891363158	geckodriver	INFO	Listening on 127.0.0.1:59798
+1618891366213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQJ1tG0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891370359	Marionette	INFO	Listening on port 59812
+1618891370598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618891562513	Marionette	INFO	Stopped listening on port 59812
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLmeoeY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891549508	Marionette	INFO	Listening on port 60157
+1618891549865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618891563906	Marionette	INFO	Stopped listening on port 60157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891614059	geckodriver	INFO	Listening on 127.0.0.1:60341
+1618891617170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF1RdaN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891621047	Marionette	INFO	Listening on port 60354
+1618891621556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891631180	Marionette	INFO	Stopped listening on port 60354
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891757378	geckodriver	INFO	Listening on 127.0.0.1:60651
+1618891760454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileEmaBhE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891764380	Marionette	INFO	Listening on port 60664
+1618891764834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891777621	Marionette	INFO	Stopped listening on port 60664
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618891961723	geckodriver	INFO	Listening on 127.0.0.1:61108
+1618891964748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3DGb4Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618891968540	Marionette	INFO	Listening on port 61120
+1618891968635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618891976461	Marionette	INFO	Stopped listening on port 61120
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892099308	geckodriver	INFO	Listening on 127.0.0.1:61373
+1618892102420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileiRnA8q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892105973	Marionette	INFO	Listening on port 61384
+1618892106336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618892168648	Marionette	INFO	Stopped listening on port 61384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileX5pvtI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892138934	Marionette	INFO	Listening on port 61516
+1618892139273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618892168114	Marionette	INFO	Stopped listening on port 61516
+1618892190082	geckodriver	INFO	Listening on 127.0.0.1:61680
+1618892193155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileyohb2K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892197076	Marionette	INFO	Listening on port 61696
+1618892197547	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892209612	Marionette	INFO	Stopped listening on port 61696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892211590	geckodriver	INFO	Listening on 127.0.0.1:61833
+1618892214673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaTjP6I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892218427	Marionette	INFO	Listening on port 61848
+1618892218561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618892235986	Marionette	INFO	Stopped listening on port 61848
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892311622	geckodriver	INFO	Listening on 127.0.0.1:62108
+1618892314704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8amliq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892318496	Marionette	INFO	Listening on port 62123
+1618892318591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618892353122	Marionette	INFO	Stopped listening on port 62123
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileSSSxSv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892340400	Marionette	INFO	Listening on port 62245
+1618892340668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1618892351819	Marionette	INFO	Stopped listening on port 62245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892394844	geckodriver	INFO	Listening on 127.0.0.1:62423
+1618892397931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile235Rn7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892401897	Marionette	INFO	Listening on port 62436
+1618892402314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892406970	Marionette	INFO	Stopped listening on port 62436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892473050	geckodriver	INFO	Listening on 127.0.0.1:62617
+1618892476114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNw1DnM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892479844	Marionette	INFO	Listening on port 62630
+1618892480009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1618892486481	Marionette	INFO	Stopped listening on port 62630
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892535182	geckodriver	INFO	Listening on 127.0.0.1:62784
+1618892538210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilebf25Kh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892542327	Marionette	INFO	Listening on port 62798
+1618892542701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618892575510	Marionette	INFO	Stopped listening on port 62798
+1618892577068	geckodriver	INFO	Listening on 127.0.0.1:62942
+1618892580171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileiWLI8z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618892584313	Marionette	INFO	Listening on port 62957
+1618892584564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.qcc.com/material/theme/chacha/cms/v2/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+1618893294359	addons.xpi	ERROR	Failed to download system add-on reset-search-defaults@mozilla.com: Error: Failed downloading via XHR, status: 0, reason: error(resource://gre/modules/addons/ProductAddonChecker.jsm:244:16) JS Stack trace: fail@ProductAddonChecker.jsm:244:16
+1618901352722	Marionette	INFO	Stopped listening on port 62957

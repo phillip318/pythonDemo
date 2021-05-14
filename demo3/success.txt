@@ -1,0 +1,5 @@
+"北京市 北京市 东城区","北京市枫露洗衣店","1021","https://www.qcc.com/firm/966b45a3d059d936f9f977e36705baf2.html"
+"北京市 北京市 东城区","北京市东城区焕然理发店","1021","https://www.qcc.com/firm/8d923dc407970ae35b1dd6b78a80c0bf.html"
+"北京市 北京市 东城区","北京市东城区源顺清真菜馆","1021","https://www.qcc.com/firm/aab52141c865808b955e21c9716f11aa.html"
+"北京市 北京市 东城区","北京市海城日用品店","1021","https://www.qcc.com/firm/f3b44ef7f8d8d8209bb4279b4260a0ec.html"
+"北京市 北京市 东城区","北京市东城区刘书蓉粮油部","1021","https://www.qcc.com/firm/feb00b8b687dd1435dc21e3180c38965.html"
